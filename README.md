@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-waqas-3a1384270/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqasm86)
-[![Website](https://img.shields.io/badge/Edge-Computing-LLM-0B7285?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://edge-computing-llm.github.io/)
+[![Website](https://img.shields.io/badge/Edge--Computing--LLM-0B7285?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://edge-computing-llm.github.io/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/waqasm86)
 
 </div>
