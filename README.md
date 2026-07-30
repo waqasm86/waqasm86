@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm **Mohammad Waqas**, a systems engineer focused on GPU-accelerated LLM inference, observability, and local-first AI infrastructure. I build practical tooling around **CUDA**, **llama.cpp**, **OpenTelemetry**, distributed computing, and low-VRAM deployment.
+My name is **Mohammad Waqas**, and I am a systems engineer focused on GPU-accelerated LLM inference, observability, and local-first AI infrastructure. I build practical tooling around **CUDA**, **llama.cpp**, **OpenTelemetry**, distributed computing, and low-VRAM deployment.
 
 - Building CUDA-first inference and telemetry systems for local LLMs
 - Engineering distributed runtimes with MPI, TCP, async I/O, and content-addressed storage
