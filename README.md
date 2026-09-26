@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-waqasm86-181717?style=flat-square\&logo=github)](https://github.com/waqasm86)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Waqas-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-waqas-3a1384270/)
 [![profile](https://img.shields.io/badge/profile-waqasm86-425CC7?style=flat-square)](https://github.com/waqasm86)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Dual_T4-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dual_T4-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white)]([https://www.kaggle.com/waqasm86])
 
 </div>
 
